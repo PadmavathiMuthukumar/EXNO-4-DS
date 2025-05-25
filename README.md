@@ -51,4 +51,5 @@ The feature selection techniques used are:
 ![image](https://github.com/user-attachments/assets/8f12d976-dcf2-4aa8-a520-bef9ce7a4190)
 
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+Thus the Feature selection process was executed successfully.
+
