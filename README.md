@@ -1,4 +1,6 @@
 # EXNO:4-DS
+# REGISTER NUMBER: 212223040141
+# NAME: PADMAVATHI M
 # AIM:
 To read the given data and perform Feature Scaling and Feature Selection process and save the
 data to a file.
@@ -24,6 +26,29 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+![image](https://github.com/user-attachments/assets/240ffb0d-0076-4855-a09b-cd26f7f1f2d6)
+
+![image](https://github.com/user-attachments/assets/9c0f0671-b4f4-4b71-b022-a0106bff29df)
+
+![image](https://github.com/user-attachments/assets/16dd516a-926a-46fb-bca3-6637a29acf1d)
+
+![image](https://github.com/user-attachments/assets/f0c636fe-d6cc-4ce5-a3c7-e775dc10521e)
+
+![image](https://github.com/user-attachments/assets/7f10d011-11dd-4415-a6e0-cd75983037d7)
+
+![image](https://github.com/user-attachments/assets/9c9c7c9f-c893-4b1a-a5ab-0fb1e5e3d6dc)
+
+![image](https://github.com/user-attachments/assets/12cb4060-313d-42f3-b40e-5660a243585f)
+
+![image](https://github.com/user-attachments/assets/f48e9a1e-034b-48dc-9e7f-f8e6e9402f13)
+
+![image](https://github.com/user-attachments/assets/553d5755-a24e-4fd8-ae11-06c85cc475bb)
+
+![image](https://github.com/user-attachments/assets/42ccb4f3-fb19-4bd1-8f60-9f79e8e3e44b)
+
+![image](https://github.com/user-attachments/assets/33130e18-0163-470e-b7c8-991016423130)
+
+![image](https://github.com/user-attachments/assets/8f12d976-dcf2-4aa8-a520-bef9ce7a4190)
+
 # RESULT:
        # INCLUDE YOUR RESULT HERE
